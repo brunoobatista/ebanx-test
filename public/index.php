@@ -1,5 +1,5 @@
 <?php
 require_once __DIR__ . '/../vendor/autoload.php';
-use App\Main;
+use App\App;
 
-Main::run();
+App::run();
